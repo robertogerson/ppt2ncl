@@ -10,9 +10,6 @@ on <a href="https://poi.apache.org/">POI 3.5</a> (or greater).
 
 
 ### License
-This file is part of the tool to convert files in the PowerPoint™ format into 
-files in the NCL (Nested Context Language) format
-
 Copyright: 2007-2013 PUC-Rio/Telemídia Laboratory, All Rights Reserved.
 
 This program is free software; you can redistribute it and/or modify it under 
