@@ -1,0 +1,45 @@
+PPT2NCL Version 0.9.0 (alpha)
+Welcome to PPT2NCL, the first ppt (Microsoft Power Point format) converter to ncl (Nested Context Language).
+
+What's new in version 0.9.0 (alpha)
+=========================================================================
+  In this version PPT2NCL can convert PPT presentations in simples NCL presentations. 
+  Currently, PPT2NCL uses the HSFL library version 3.1 (http://http://poi.apache.org/slideshow/index.html).
+This library supports the following types of pictures:
+    * Windows Metafiles (WMF)
+    * Enhanced Metafiles (EMF)
+    * JPEG Interchange Format
+    * Portable Network Graphics (PNG)
+    * Macintosh PICT
+
+  In current version PPT2NCL is not able to work with animations and transitions
+from ppt format and can not understand the PPTX format.
+This features will be supported in the future.
+
+Release History
+=========================================================================
+Version 0.9.0 is the first PPT2NCL release.
+
+Download the lastest version
+=========================================================================
+You can download the latest version of PPT2NCL at http://www.ncl.org.br
+
+Download the source code
+=========================================================================
+PPT2NCL is a free software and its source code is available at 
+http://www.softwarepublico.gov.br (Portal do Software Publico Brasileiro).
+
+Contact us
+=========================================================================
+If you have any questions using PPT2NCL, please contact us by: 
+   robertogerson@telemidia.puc-rio.br
+   bslima@telemidia.puc-rio.br
+or post your question in our community at http://www.softwarepublico.gov.br 
+(Portal do Software Publico Brasileiro)
+
+TeleMidia Lab - PUC-Rio
+Address: Rua Marques de Sao Vicente 225, Edificio Pe. Belizario         
+         (Predio ITS - Instituto de Tecnologia de Software)
+         Gavea - Rio de Janeiro/RJ - Brasil CEP:22.453-900
+Tel.:     55-21-35271500 (Ramais: 3503/3504)
+E-mail:   info @ telemidia.puc-rio.br
