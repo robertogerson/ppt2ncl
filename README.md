@@ -1,14 +1,19 @@
 ppt2ncl
 =======
-ppt2ncl is a simple tool to convert PPT files to Nested Context Language (NCL)
-documents.
+ppt2ncl is a simple tool to convert PowerPoint presentations into 
+[Nested Context Language (NCL)](http://www.ncl.org.br) documents.
 
+![ppt2ncl Screenshot](https://raw.githubusercontent.com/robertogerson/ppt2ncl/master/img/ppt2ncl-v.1.0-screenshot.png)
 
 ### Dependencies
-ppt2ncl depends on <a href="http://java.com">Java JRE 1.7</a> (or greater) and
-on <a href="https://poi.apache.org/">POI 3.5</a> (or greater). 
+ppt2ncl depends on:
+  * <a href="http://java.com">Java JRE >= 1.7</a> 
+  * <a href="https://poi.apache.org/">POI >= 3.5</a>.
 
+### Usage
+  * TODO
 
+----
 ### License
 Copyright: 2007-2013 PUC-Rio/Telemídia Laboratory, All Rights Reserved.
 
@@ -28,4 +33,5 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
 For further information contact:
 
   * robertogerson@telemidia.puc-rio.br
+
 
