@@ -1,4 +1,10 @@
-1. Convertion from PPTX
-2. Convertion from ODP
-3. Animations
-4. Transitions
+# ppt2ncl TODO 
+Tasks that need implementing.
+
+## Known bugs
+
+## Features or problems
+  * Support for .pptx files.
+  * Support for .odp files.
+  * Support for animations and transitions.
+
