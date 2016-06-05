@@ -13,6 +13,9 @@ ppt2ncl depends on:
 ### Usage
   * TODO
 
+### Similar tools
+  * <a href="https://people.dsv.su.se/~pierre/os/ppt2smil/">ppt2smil</a>
+
 ----
 ### License
 Copyright: 2007-2013 PUC-Rio/Telemídia Laboratory, All Rights Reserved.
